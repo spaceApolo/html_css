@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* .parent {
+    border: 2px black dotted;
+    display: inline-block;
+}
+.box  {
+    display: inline-block;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+#two {
+    background-color: green;
+    position:relative ;
+    bottom: 10px;
+    left: 10px;
+} */
+.padre {
+    margin-left: 30vw;
+    margin-top: 20vh;
+}
+.parrafo {
+    background-color:silver ;
+    border-radius: 50px;
+    border: 2px black solid;
+    width: 500px;
+    padding: 80px;
+    padding-top: 90px;
+    text-align: left;
+}
+.titulo {
+    text-align: center;
+    position: relative;
+    margin-left: 120px;
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 250px;
+    background-color: red;
+    padding: 40px;
+    top: 50px;
+    font-size: 18px;
+}
