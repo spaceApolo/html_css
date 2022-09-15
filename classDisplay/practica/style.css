@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    display: block;
+    background-color: aquamarine;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar ul li {
+    display: inline;
+}
+
+.contenido {
+    display: inline-block;
+}
+.sidebar {
+    position: relative;
+    display: inline-block;
+    background-color: pink;
+    min-width: 20vw;
+    min-height: 100vh;
+    margin-left: 0px;
+    padding-left: 0px;
+    border: none;
+}
+.principal {
+    position: relative;
+    border: none;
+    display: inline-block;
+    background-color: darkgrey;
+    min-width:75vw ;
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.section {
+    position: relative;
+    width: 10px;
+    min-height: 20px;
+    background-color:  brown;
+}
